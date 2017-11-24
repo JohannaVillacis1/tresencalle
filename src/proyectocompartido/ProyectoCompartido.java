@@ -19,6 +19,8 @@ public class ProyectoCompartido {
         System.out.println("TRABAJO");
          System.out.println("1");
                 System.out.println("2");
+         System.out.println("1");
+                System.out.println("2");
 
 
     }
